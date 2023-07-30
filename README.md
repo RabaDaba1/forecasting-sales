@@ -5,7 +5,7 @@ This repository contains my [submission](https://www.kaggle.com/code/kacperrabcz
 
 ## Contents
 
-- `sales-forecasting.ipynb`: Jupyter notebook containing my analysis and modeling code.
+- `last-minute-forecasting.ipynb`: Jupyter notebook containing my analysis and modeling code.
 
 ## Results
 
