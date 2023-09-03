@@ -9,7 +9,7 @@ This repository contains my [submission](https://www.kaggle.com/code/kacperrabcz
 
 ## Results
 
-My submission scored in the **top 15%** of all submissions on the leaderboard with **SMAPE score of 8.08**.
+My submission scored in the **top 15%** of all submissions on the leaderboard with **SMAPE score of 8.08** and is the **5th most voted solution out of over 300 notebooks**.
 
 ## Kaggle Competition
 
